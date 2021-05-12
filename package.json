@@ -19,7 +19,7 @@
     "jquery": "^3.4.1",
     "mint-ui": "^2.2.13",
     "nuxt": "^2.0.0",
-    "swiper": "^4.1.0"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "eslint-config-prettier": "^4.1.0",
